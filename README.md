@@ -33,3 +33,5 @@ The pins on the header for write enable are marked. Connect the switch there.
 All of the mounting holes are designed to be 2.5mm in diameter to allow for use of an M3 tap.
 
 ![Photo of the Greaseweazle mounted to a bracket](images/greaseweazle_scsi_bracket_view.jpg)![Photo of all three brackets installed in an old dual-bay SCSI enclosure](images/greaseweazle_scsi_bracket_installed.jpg)
+
+Drawings were created in [LibreCAD](https://librecad.org/) and released under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) license.
