@@ -34,4 +34,10 @@ All of the mounting holes are designed to be 2.5mm in diameter to allow for use 
 
 ![Photo of the Greaseweazle mounted to a bracket](images/greaseweazle_scsi_bracket_view.jpg)![Photo of all three brackets installed in an old dual-bay SCSI enclosure](images/greaseweazle_scsi_bracket_installed.jpg)
 
+# Alternative design
+
+If you have a solution for mounting the board already, but just want a back panel (or don't want to deal with bending the legs), check out the alternate model. It omits the legs, and adds a cutout for a panel-mount USB-C port. It was designed to accomodate a cable [like this one](https://www.adafruit.com/product/4056) from Adafruit, but sadly they don't seem to carry a USB-C to USB-C model anymore. The width of the mounting screws varies between brands for these things, so check your work before submitting the design for cutting.
+
+![Screenshot of the alternate bracket design](images/greaseweazle_scsi_bracket_alt.png)
+
 Drawings were created in [LibreCAD](https://librecad.org/) and released under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) license.
